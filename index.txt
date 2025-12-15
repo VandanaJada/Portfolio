@@ -4,12 +4,12 @@ vCard - Personal Portfolio
 
 alt = Vandana Jada
 Vandana Jada
-Data Scientist
+Data Analyst
 
 Show Contactsgit
 
 Email
-vandanajada14@gmail.com
+vandanajada1114@gmail.com
 
 #not needed
 Phone
